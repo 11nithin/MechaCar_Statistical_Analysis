@@ -15,7 +15,7 @@ Two datasets are provided for Mechacars prototype vehicles
 
 
 From the result Vehicle length and Ground clearence have a non-random effect on MPG of the MechaCar. 
-- p-value: 5.35e-11 is lower than significance level of 0.05%  and the slope of the linear model is zero, thus the null hypothesis must be rejected. . In other words, we can predict MPG using linear model with vehicle length and ground clearance values.
+- p-value: 5.35e-11 is lower than significance level of 0.05%  and the slope of the linear model is zero, thus the null hypothesis must be rejected.  In other words, we can predict MPG using linear model with vehicle length and ground clearance values.
 - Multiple R-squared: 0.7149 means that the regression model can approximate MPG with 71% accurate
 
 ## Summary Statistics on Suspension Coils
