@@ -1,8 +1,10 @@
 # MechaCar_Statistical_Analysis
 
+
+## Purpose of the Analysis
+AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. 
+
 Two datasets are provided for Mechacars prototype vehicles
-
-
  - MechaCar_mpg.csv - Test results for 50 prototype MechaCars with multiple metrics.
  - Suspension_Coil.csv -  The weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots.
 
