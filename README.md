@@ -31,14 +31,13 @@ From the result Vehicle length and Ground clearence have a non-random effect on 
 
 One sample t-test is performed on each lot 
 
-Lot 1
-
+### Lot 1
 ![1](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1_one%20sample%20t%20test.JPG)
 
 
-Lot 2
+### Lot 2
 ![2](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2_one%20sample%20ttest.JPG)
 
 
-Lot 3
+### Lot 3
 ![3](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_one%20sample%20ttest.JPG)
