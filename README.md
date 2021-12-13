@@ -19,4 +19,26 @@ From the result Vehicle length and Ground clearence have a non-random effect on 
 ## Summary Statistics on Suspension Coils
 
 ![image](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.JPG)
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI). Since the variance is 62.29, so current manufacturing data meet this design specification.
+
 ![image](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Lot_Summary.JPG)
+
+- If we look at the individual lots suspension coils variance for lot 3 is 170. The suspension coils for lot 3 may exceed design specifications variance values and doesn't meet the requirement.
+
+
+## T-Tests on Suspension Coils
+
+One sample t-test is performed on each lot 
+
+Lot 1
+
+![1](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Lot1_one%20sample%20t%20test.JPG)
+
+
+Lot 2
+![2](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/Lot2_one%20sample%20ttest.JPG)
+
+
+Lot 3
+![3](https://github.com/11nithin/MechaCar_Statistical_Analysis/blob/main/Resources/lot3_one%20sample%20ttest.JPG)
