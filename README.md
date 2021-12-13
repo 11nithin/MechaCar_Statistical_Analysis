@@ -49,7 +49,7 @@ One sample t-test is performed on each lot
 - Lot 3 Ttest for the suspension coils show that they are statiscally different from the population mean and p value is .04168 low enough to reject the null hypothesis
 
 ## Study Design: MechaCar vs Competition
-When comparing MechaCar with competitors, customer maintenance cost is important metric to be considered. 
+ When comparing MechaCar with competitors, customer maintenance cost is important metric to be considered. 
 
 - Null hypothesis: No statistical difference between mean of maintenance cost for MechaCar and competitors. Significance level should be 0.05%.
 - Two sample t-test can be used to prove or reject null hypothesis
